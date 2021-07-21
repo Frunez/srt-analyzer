@@ -10,3 +10,7 @@ It parses SRT files, shows timings and highlights overlapping timecodes! Just dr
 - Run `yarn` for dependencies
 - Then run `yarn start`
 - Finally navigate to `http://localhost:3000/` in browser (chrome or firefox recommended)
+
+## Testing
+Tests? What tests?
+- Run `yarn test` and be appalled by complete lack of testing
